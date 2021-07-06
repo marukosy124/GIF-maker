@@ -11,6 +11,12 @@ Bootstrapped with Create Snowpack App (CSA).
 
 <img src="demo.gif" />
 
+## Setup
+
+### `npm install`
+
+Install the dependencies to run the app.
+
 ### `npm start`
 
 Runs the app in the development mode.
